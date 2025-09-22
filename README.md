@@ -30,3 +30,14 @@ Link to dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shweta
 ---
 
 ## 📂 Repository Structure
+
+mall-customer-cleaning/
+├─ data/
+│ ├─ Mall_Customers.csv # Original dataset
+│ └─ mall_customers_cleaned.csv # Cleaned dataset
+├─ notebooks/
+│ └─ mall_cleaning.ipynb # Jupyter/Colab notebook
+├─ summary.txt # Summary of cleaning steps
+└─ README.md # Project documentation
+
+
